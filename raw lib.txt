@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("/n[szex6] hack the fucking game/n")
+print("\n[szex6] hack the fucking game\n")
 return library
